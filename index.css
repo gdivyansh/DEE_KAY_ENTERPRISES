@@ -1,0 +1,78 @@
+body{
+	font-family: Roboto Slab;
+	background-color: #0037E6
+
+
+}
+
+hr{
+	border: 2px solid black;
+}
+
+.inputlable {
+  font-family: Roboto Slab;
+  font-weight: 600;
+  font-size: 19px;
+}
+
+.inputfields {
+  background-color: lightgray;
+  border: none;
+  border-radius: 5px;
+  padding-left: 10px;
+  height: 30px;
+}
+
+.submitbtn {
+  background-color: #2000ff;
+  color: white;
+  width: 100px;
+  height: 35px;
+  border: none;
+  border-radius: 8px;
+}
+
+.ValidIDproofbtn{
+background-color: #2000ff;
+  color: white;
+  width: 100px;
+  height: 100px;
+  border: none;
+  border-radius: 8px;
+}
+
+.PanCardbtn{
+background-color: #2000ff;
+  color: white;
+  width: 100px;
+  height: 100px;
+  border: none;
+  border-radius: 8px
+}
+
+.PassportSizePhotobtn{
+background-color: #2000ff;
+  color: white;
+  width: 100px;
+  height: 100px;
+  border: none;
+  border-radius: 8px
+}
+
+.Signatures{
+background-color: #2000ff;
+  color: white;
+  width: 100px;
+  height: 100px;
+  border: none;
+  border-radius: 8px
+}
+
+button:hover {
+  background-color: darkgreen;
+}
+
+.checkbox{
+	height: 15px;
+	width: 15px
+}
